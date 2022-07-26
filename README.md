@@ -12,7 +12,7 @@ It's just to make sure you have everything setted up and ready to go.
 
 # License
 
-Unless specified otherwise, the source code is being relesed under MIT license. The license is present in every single source code.
+Unless specified otherwise, the source code is being released under MIT license. The license is present in every single source code.
 
 ---
 
