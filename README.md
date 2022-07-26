@@ -16,4 +16,4 @@ Unless specified otherwise, the source code is being relesed under MIT license. 
 
 ---
 
-This document was last modified on July 26^th^, 2022 at 14h49 by Guillaume Saumure. 
+This document was last modified on July 26th, 2022 at 14h49 by Guillaume Saumure. 
